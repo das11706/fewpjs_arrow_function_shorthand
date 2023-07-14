@@ -7,6 +7,4 @@ let square = (num) => {
 }
 
 
-let add = (numOne, numTwo) => {
-  return numOne + numTwo;
-}
+let add = (numOne, numTwo) => numOne + numTwo
